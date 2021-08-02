@@ -3,7 +3,7 @@ import Head from "next/head"
 import Image from "next/image"
 import utilStyles from "../styles/utils.module.css"
 import Link from "next/link"
-import NavBar from "./NavBar"
+import NavBar from "./MainNavBar"
 
 const name = "Granny's Kitchen"
 export const siteTitle= "Grannys Kitchen"
